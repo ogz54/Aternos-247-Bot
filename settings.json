@@ -5,7 +5,7 @@
     "type": "mojang"
   },
 
-  "server": {IP: insanazorba-Xfh1.aternos.me:26319}
+  "server": {insanazorba-Xfh1.aternos.me:26319
     "ip": "26319",
     "port": 25565,
     "version": "1.17.1"
